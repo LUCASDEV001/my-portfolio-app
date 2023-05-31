@@ -62,7 +62,7 @@
         <input
           type="hidden"
           name="_next"
-          value="http://localhost:8080/contact"
+          value="https://lucas-cavalcante-app-pi.vercel.app/contact"
         />
       </form>
     </div>
